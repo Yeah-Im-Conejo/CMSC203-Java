@@ -1,4 +1,4 @@
-/* This program calculates the Factorial Approximation of a number. */
+/* This program calculates the Factorial Approximation of a number. Developed by @Yeah_Im_Conejo */
 
 import java.util.Scanner; // Import scanner
 
