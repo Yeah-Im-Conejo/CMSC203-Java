@@ -1,6 +1,6 @@
 /**
  * Movie class, represents a Movie object
- * @author ralexander
+ * @author Josue Ponce
  *
  */
 public class Movie {
