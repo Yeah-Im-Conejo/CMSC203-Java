@@ -2,7 +2,7 @@ import java.util.Scanner;
  
 /*
 * This program contains some syntax and logic errors, and depending on the input, contains a run-time error.
-* However, I have fixed all those errors!! lab done by @Yeah_Im_Conejo.
+* However, I have fixed all those errors!! lab done by Josue Ponce
 */
 
 public class Function2 {
